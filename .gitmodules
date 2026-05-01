@@ -1,0 +1,9 @@
+[submodule "egide-ia-backend"]
+	path = egide-ia-backend
+	url = https://github.com/gabrielly-freire/egide-ia-backend
+[submodule "egide-ia-frontend"]
+	path = egide-ia-frontend
+	url = https://github.com/gabrielly-freire/egide-ia-frontend
+[submodule "egide-ia-ms"]
+	path = egide-ia-ms
+	url = https://github.com/gabriel-ribeiro-099/egide-ia-ms
